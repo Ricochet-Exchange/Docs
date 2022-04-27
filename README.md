@@ -4,7 +4,6 @@ description: Real-time investing with streaming payments, powered by Superfluid 
 
 # Ricochet Exchange
 
-{% hint style="danger" %}
 **Important Disclosures**
 
 * All smart contracts are unaudited&#x20;
