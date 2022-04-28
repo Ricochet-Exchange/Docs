@@ -19,17 +19,15 @@ Currently, completing a bounty makes you a rexForce member. You'll get a designa
 * All bounties are paid out in RIC tokens&#x20;
 * All bounties are paid out after completion on Fridays. Payout based on $RIC price at time of completion.
 
-{% hint style="info" %}
-The _Bounty Hunter Program_ is a **pay-for-performance-based** **compensation program** that pays contributors for their work.&#x20;
-{% endhint %}
+
+The _Bounty Hunter Program_ is a **pay-for-performance-based** **compensation program** that pays contributors for their work.
+
 
 ### Get Started Now
 
 Claim a bounty by letting the "@Core Team" know in Discord. You should also comment on this issue if there's a Github issue for it. Threads in Discord are used to manage the communications related to each bounty so, make a thread in Discord to get started on an issue.&#x20;
 
-{% hint style="success" %}
 You can claim and **start working on a bounty by creating a Discord** **thread** in #development or #business-dev channels.
-{% endhint %}
 
 ### Getting Paid for Bounties
 
@@ -51,12 +49,13 @@ Get started today and earn some $RIC for your hard work!
 
 If you've completed a bounty, please submit the Ricochet Bounty Form here to help us get you your payout
 
-{% embed url="https://forms.gle/WPXXmAzRsjUCmhR19" %}
+[Complete your bounty](https://forms.gle/WPXXmAzRsjUCmhR19)
 
 You can view previously submitted bounties, payment statuses, and the bounty leaderboard on the [REX Bounty Spreadsheet](https://docs.google.com/spreadsheets/d/15iHW9WQ4kIf6ARsaqBzUjFjP7fYge8IOEqO\_aX--Tyw/edit?usp=sharing)
 
-### Want to complete a bounty that's not explicity listed?&#x20;
-
+### Want to complete a bounty that's not explicity listed?;
 Put it here and we'll list it for you to complete.
 
-{% embed url="https://forms.gle/RBGVt9KmqPLr1CFn6" %}
+[Request a bounty](https://forms.gle/RBGVt9KmqPLr1CFn6)
+
+
