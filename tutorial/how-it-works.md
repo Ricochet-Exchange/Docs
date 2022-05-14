@@ -2,7 +2,7 @@
 description: Upgrade your USDC on Polygon and get started
 ---
 
-# 🏃♂ - Quickstart
+# - Quickstart
 
 ## Streaming USDC to ETH
 
