@@ -2,13 +2,13 @@
 description: Protecting our swaps with external pricing data
 ---
 
-# 🧙♂ - Tellor Oracle
+# 🧙♂ 🧙♂ - Tellor Oracle
 
 ## What is Tellor?
 
 Tellor is an oracle system where parties can request the value of an off-chain data point (e.g. BTC/USD) and miners compete to add this value to an on-chain data-bank, accessible by all Ethereum smart contracts.  The inputs to this data-bank are secured by a network of staked miners. Tellor utilizes crypto-economic incentive mechanisms, rewarding honest data submissions by miners and punishing bad actors, through the issuance of Tellor’s token, Tributes (TRB) and a dispute mechanism. [\[1\]](https://docs.tellor.io/tellor/whitepaper/introduction)
 
-![](../.gitbook/assets/tellor\_infographics2\_Median\_DEF\_CROPPED.png)
+![](<../.gitbook/assets/tellor\_infographics2\_Median\_DEF\_CROPPED (1).png>)
 
 Prices are submitted to the Tellor Smart Contract by a decentralized network of reporters. Tellor SC takes the median value of the prices submitted and stores it in the data-bank.
 

@@ -1,4 +1,4 @@
-# 🐣 - Project Incubation
+# - Project Incubation
 
 The Ricochet DAO seeks to lead the space of real-time DeFi. Projects working on stream-enabled DeFi tools are encouraged to join the REX brand and grow under the firepower of Ricochet's treasury and rexForce.
 

@@ -2,7 +2,7 @@
 description: How does a token get listed on Ricochet Exchange?
 ---
 
-# 📄    - Get Listed
+# - Get Listed
 
 _This listing proposal process takes 7 days to complete._
 

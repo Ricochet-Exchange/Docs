@@ -8,7 +8,7 @@ By employing this strategy, you're buying less of an asset as its price rises an
 
 ## DCA Visualization
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 ## Why should you DCA?
 
@@ -34,7 +34,7 @@ Timing the markets is a time consuming process. And in the busy and fast-paced w
 
 You’re able to exchange part of your salary or income for cryptocurrency over time. Users can decide how much they'd like to invest and do so on a regular basis. rexMarket (our name for this process) utilizes Superfluid’s streams and we have a growing number of token pairs with which you are able to stream in real-time.   By using Ricochet, you're guaranteed to have a number of versatile investment strategies right at your fingertips.
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ### For traders
 

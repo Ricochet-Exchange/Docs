@@ -68,7 +68,7 @@ There are three ways to participate in governance:
 
 rexBank is a contract that lets RIC token holders borrow funds from the Ricochet DAO at fixed interest rates. rexBank accepts RIC as collateral and supports borrowing USDC at a 12% interest rate and 1% origination fee. rexBank creates a close loop system where RIC holders can access liquidity that has accumulated in the Ricochet Treasury from fees collected on Ricochet Exchange.
 
-![REX Bank is used by contributors who've earned RIC to access USDC to pay bills and buy food.](<../.gitbook/assets/Screen Shot 2021-11-19 at 4.33.04 PM (1).png>)
+![REX Bank is used by contributors who've earned RIC to access USDC to pay bills and buy food.](<../.gitbook/assets/Screen Shot 2021-11-19 at 4.33.04 PM.png>)
 
 ## V1 Liquidity Mining
 

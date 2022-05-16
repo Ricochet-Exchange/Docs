@@ -4,7 +4,7 @@
 
 ## Tutorial & Help <a href="#tutorial" id="tutorial"></a>
 
-* [🏃 - Quickstart](tutorial/how-it-works.md)
+* [🏃♂ - Quickstart](tutorial/how-it-works.md)
 * [🎬 - DApp Video Tutorial](tutorial/using-the-dapp.md)
 * [❓ - FAQ](tutorial/faq/README.md)
   * [Getting funds onto Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
@@ -15,8 +15,8 @@
 * [🫂 - Community](business/community.md)
 * [🗳 - Ricochet DAO](business/usdric.md)
 * [🏆 - Bounty Hunters](business/bounty-hunters.md)
-* [📄    - Get Listed](business/get-listed.md)
-* [🐣 - Project Incubation](business/project-incubation.md)
+* [- Get Listed](business/get-listed.md)
+* [- Project Incubation](business/project-incubation.md)
 
 ## Technical Docs <a href="#docs" id="docs"></a>
 
@@ -24,7 +24,7 @@
 * [🦖 - REX Contracts](docs/rex-contracts.md)
 * [🤖 - REX Keepers](docs/rex-keepers.md)
 * [🚿 - Superfluid](docs/superfluid.md)
-* [🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
+* [🧙♂ 🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
 * [💨 - Apache Airflow](docs/apache-airflow.md)
 * [🐱 - Github](docs/github.md)
 

@@ -19,7 +19,7 @@ Article, in case you'd rather read about it: \
 
 ### **Bridging from BSC to Polygon**&#x20;
 
-There is an **unofficial BSC/xDAI to Polygon bridge**, by [xPollinate](https://www.xpollinate.io). A small fee is charged for using this service, which will be detailed for you before accepting the transfer.
+There is an **unofficial BSC/xDAI to Polygon bridge**, by [xPollinate](https://www.xpollinate.io/). A small fee is charged for using this service, which will be detailed for you before accepting the transfer.
 
 Supported tokens for bridging:
 
@@ -38,7 +38,7 @@ Article, in case you'd rather read about it (scroll \~halfway): \
 
 ### Starting with fiat?
 
-Currently, [AscendEX (formerly BitMax)](https://ascendex.com), [Binance](https://binance.com), [Huobi Wallet](https://www.huobiwallet.com), [Okex](https://www.okex.com) and [Kucoin](https://www.kucoin.com) support withdrawals straight to Polygon blockchain.
+Currently, [AscendEX (formerly BitMax)](https://ascendex.com/), [Binance](https://binance.com), [Huobi Wallet](https://www.huobiwallet.com/), [Okex](https://www.okex.com/) and [Kucoin](https://www.kucoin.com/) support withdrawals straight to Polygon blockchain.
 
 No bridge is required for this. You will need to register an account to use the exchanges. There may be fees associated with withdrawals. Exchanges only support deposits/withdrawals from specific tokens.&#x20;
 
@@ -55,5 +55,5 @@ If you'd rather not use any of those, you can try out this Coinbase route:
 If for one reason or another, you find yourself out of MATIC for gas, you can always use one of the MATIC faucets to help you out.&#x20;
 
 * [matic.supply](https://matic.supply)
-* [faucet.firebird.finance](https://faucet.firebird.finance)
+* [faucet.firebird.finance](https://faucet.firebird.finance/)
 * [polycrystal.finance/faucet](https://polycrystal.finance/faucet)
