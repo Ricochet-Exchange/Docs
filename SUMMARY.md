@@ -4,7 +4,7 @@
 
 ## Tutorial & Help <a href="#tutorial" id="tutorial"></a>
 
-* [🏃♂ - Quickstart](tutorial/how-it-works.md)
+* [🏃 - Quickstart](tutorial/how-it-works.md)
 * [🎬 - DApp Video Tutorial](tutorial/using-the-dapp.md)
 * [❓ - FAQ](tutorial/faq/README.md)
   * [Getting funds onto Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
