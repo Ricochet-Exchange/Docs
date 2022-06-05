@@ -14,7 +14,7 @@ description: Real-time investing with streaming payments, powered by Superfluid 
 
 Ricochet Exchange is focused on producing novel tools that allow people to invest their crypto assets in _real-time_ using Superfluid's finance framework. Learn more about each of our projects below.
 
-### rexMarket - [LIVE](https://app.ricochet.exchange)
+### REX Market - [LIVE](https://app.ricochet.exchange)
 
 This project involves creating and maintaining a **decentralized exchange that supports automatic** **real-time investing** on Polygon. Ricochet Exchange contracts use Superfluid for streaming tokens and Tellor Oracle for getting prices, and SushiSwap/QuickSwap for liquidity. Individuals and organizations use the exchange to invest their capital and inbound income streams into and out of ETH, WBTC, and others in real-time. [Learn More](https://app.ricochet.exchange)
 
@@ -30,9 +30,9 @@ The same information in the editor above is shown in the default REX Market view
 
 ![Same view as the above figue laid out for view with more details](<.gitbook/assets/Screen Shot 2022-06-05 at 5.19.30 PM.png>)
 
-### rexLaunchpad - [LIVE](https://app.ricochet.exchange)
+### REX Launchpad - [LIVE](https://app.ricochet.exchange)
 
-The Launchpad intends on creating a **launchpad contract for projects to use to do fair ICOs**. This launchpad does away with front-running by offering tokens at a fixed distribution rate. Streamers can compete to earn a portion of the distributions. See an example below where the price discovery would put $RIC's price at 0.50 USDC. [Learn More](https://github.com/Ricochet-Exchange/ricochet/blob/main/00-Meta/RicochetExchangeOffering.md)
+The Launchpad intends on creating a **launchpad contract for projects to use to do fair ICOs**. This launchpad does away with front-running by offering tokens at a fixed distribution rate. Streamers can compete to earn a portion of the distributions. See an example below where the price discovery would put RIC's price at 0.50 USDC. [Learn More](https://github.com/Ricochet-Exchange/ricochet/blob/main/00-Meta/RicochetExchangeOffering.md)
 
 ![Dynamic pricing of the $RIC token via REX Launchpad](<.gitbook/assets/image (42).png>)
 
