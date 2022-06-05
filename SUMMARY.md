@@ -24,7 +24,7 @@
 * [🦖 - REX Contracts](docs/rex-contracts.md)
 * [🤖 - REX Keepers](docs/rex-keepers.md)
 * [🚿 - Superfluid](docs/superfluid.md)
-* [🧙♂ 🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
+* [🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
 * [💨 - Apache Airflow](docs/apache-airflow.md)
 * [🐱 - Github](docs/github.md)
 
