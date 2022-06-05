@@ -6,10 +6,9 @@ description: Real-time investing with streaming payments, powered by Superfluid 
 
 **Important Disclosures**
 
-* All smart contracts are unaudited&#x20;
+* All smart contracts are unaudited
 * Ricochet Exchange charges a 2% fee
 * You will lose tokens if your balance runs out while streaming
-{% endhint %}
 
 ## Projects
 
@@ -21,7 +20,15 @@ This project involves creating and maintaining a **decentralized exchange that s
 
 ![Investing in Ethereum with Dai in real-time with Ricochet Exchange](<.gitbook/assets/image (27).png>)
 
-![Ricochet Exchange is LIVE on the Polygon network; Use it today to earn Ricochet Tokens (RIC)!](<.gitbook/assets/Screen Shot 2021-11-01 at 8.43.29 AM.png>)
+#### Interactive Stream Manager
+
+Construct a _DCA flows_ **** using the REX Market Interactive Stream Manager interface.
+
+![Convert RIC governacne tokens to USDC and then convert USDC to ETH and WBTC](<.gitbook/assets/Jun-05-2022 16-50-41.gif>)
+
+The same information in the editor above is shown in the default REX Market view below.
+
+![Same view as the above figue laid out for view with more details](<.gitbook/assets/Screen Shot 2022-06-05 at 5.19.30 PM.png>)
 
 ### rexLaunchpad - [LIVE](https://app.ricochet.exchange)
 
@@ -31,11 +38,11 @@ The Launchpad intends on creating a **launchpad contract for projects to use to 
 
 ![REX Launchpad can be used for streaming ICOs; Ricochet Launchpads provide a easy way to do a "fair launch"](<.gitbook/assets/Screen Shot 2021-11-01 at 8.39.50 AM.png>)
 
-### rexLP - [LIVE](https://app.ricochet.exchange)
+### Experimental Products
+
+#### REX Tokens and REX LP streaming
 
 REX Tokens are yield-bearing tokens used in Ricochet Exchange to deliver real-time yield to streamers. REX Tokens represent a claim on yield-bearing ERC20 tokens staked in reward systems (e.g. SushiSwap Farms). Streamers stream USDC into an exchange to receive REX Tokens. Tokens are denoted with a “rex” prefix on the underlying token (e.g. rexSLP). The exchange takes the underlying tokens and stakes them in a reward system. Streamers then receive the rewards produced in real-time directly to their wallet. [Learn More](https://github.com/Ricochet-Exchange/ricochet-lpx)
 
-![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time ](.gitbook/assets/Ricochet\_-\_sushi.jpg)
-
-
+![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time](.gitbook/assets/Ricochet\_-\_sushi.jpg)
 
