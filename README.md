@@ -24,11 +24,9 @@ This project involves creating and maintaining a **decentralized exchange that s
 
 Construct a _DCA flows_ **** using the REX Market Interactive Stream Manager interface.
 
-![Convert RIC governacne tokens to USDC and then convert USDC to ETH and WBTC](<.gitbook/assets/Jun-05-2022 16-50-41.gif>)
+![Convert RIC governacne tokens to USDC and then convert USDC to ETH and WBTC](<.gitbook/assets/Jun-05-2022 17-40-33.gif>)
 
-The same information in the editor above is shown in the default REX Market view below.
-
-![Same view as the above figue laid out for view with more details](<.gitbook/assets/Screen Shot 2022-06-05 at 5.19.30 PM.png>)
+![Close up of the DCA Flow](<.gitbook/assets/Jun-05-2022 16-50-41.gif>)
 
 ### REX Launchpad - [LIVE](https://app.ricochet.exchange)
 
