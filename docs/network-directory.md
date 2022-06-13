@@ -6,14 +6,14 @@ description: Contract addresses on Polygon and more
 
 ### REX Markets
 
-| Market      | Contract Address                                                                                                                            | Protocol Version |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| ETH<>USDC   | [0xD83321984CF13b47b84D2b2939EC286c8d08714d](https://console.superfluid.finance/matic/accounts/0xd83321984cf13b47b84d2b2939ec286c8d08714d)  | v2.0             |
-| ETH<>DAI    | 0x5970Acd9e2Cb09089FE61f4D0fEc1ae0E959bbDe                                                                                                  | v2.0             |
-| WBTC<>USDC  | 0xef2C9e8777648d7Dea03b319c64EA53f38EC1398                                                                                                  | v2.0             |
-| WBTC<>DAI   | 0xE0073786618b886aA1aa44Df103850a227ADe9ae                                                                                                  | v2.0             |
-| MATIC<>USDC | 0x87588653F2F840Bf0589d5715679Db77d8fC021d                                                                                                  | v2.0             |
-| MATIC<>DAI  | 0xcaB28480ab5c1E133e9B7FC67E030B8DCC2A1d24                                                                                                  | v2.0             |
+| Market      | Contract Address                           | Protocol Version |
+| ----------- | ------------------------------------------ | ---------------- |
+| ETH<>USDC   | 0xF1748222B08193273fd34FF10A28352A2C25Adb0 | v2.0             |
+| ETH<>DAI    | 0xB44B371A56cE0245ee961BB8b4a22568e3D32874 | v2.0             |
+| WBTC<>USDC  | 0x11Bfe0ff11819274F0FD57EFB4fc365800792D54 | v2.0             |
+| WBTC<>DAI   | 0xaA6BF289A0b3BB71dd7DfABE7A373410d37A4b70 | v2.0             |
+| MATIC<>USDC | 0xF989C73d04D20c84d6A4D26d07090D0a63F021C7 | v2.0             |
+| MATIC<>DAI  | 0x9FC28B1887589785CA43C57946dD0d3eD781A1eE | v2.0             |
 
 ### REX Banks
 
