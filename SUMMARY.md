@@ -14,9 +14,6 @@
 
 * [🫂 - Community](business/community.md)
 * [🗳 - Ricochet DAO](business/usdric.md)
-* [🏆 - Bounty Hunters](business/bounty-hunters.md)
-* [- Get Listed](business/get-listed.md)
-* [- Project Incubation](business/project-incubation.md)
 
 ## Technical Docs <a href="#docs" id="docs"></a>
 
@@ -25,7 +22,6 @@
 * [🤖 - REX Keepers](docs/rex-keepers.md)
 * [🚿 - Superfluid](docs/superfluid.md)
 * [🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
-* [💨 - Apache Airflow](docs/apache-airflow.md)
 * [🐱 - Github](docs/github.md)
 
 ## Quick Explainers
