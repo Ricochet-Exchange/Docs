@@ -14,6 +14,7 @@
 
 * [🫂 - Community](business/community.md)
 * [🗳 - Ricochet DAO](business/usdric.md)
+* [⛵ - Captains](business/captains.md)
 
 ## Technical Docs <a href="#docs" id="docs"></a>
 
