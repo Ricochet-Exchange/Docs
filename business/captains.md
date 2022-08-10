@@ -123,3 +123,40 @@ Added bonuses you have...
 * previously served as a signer on a Gnosis safe
 * understands Github issues and pull requests well enough to manage them
 * experience with Dune Analytics
+
+## Captains Agreement
+
+This section describes what Captains agree to when taking on one of the five Captains positions.&#x20;
+
+### Responsibilities
+
+Captains at a minimum must:
+
+1. Weekly report - publish to discord channel
+2. Monthly report - publish a written report on discord
+3. Host a monthly meeting - host an event in discord
+
+### Compensation Model
+
+Ricochet DAO runs a custom compensation model which requires anyone interest in this role will need to use, details of the Captains System are below:
+
+* You must stake 100K RIC tokens (1% of the supply) as a deposit to become a Captain
+* A vote is required to unstake your RIC
+  * Bad Captains will not receive their deposit back
+* Base Rewards:
+  * 100K RIC/year base salary
+* Bonus Rewards:
+  * Based on protocol fee RIC buy backs
+* Grant Rewards:
+  * You’ll be responsible for requesting additional RIC by submitting grant proposals
+  * Each of the 5 Captains can approve funding your grant proposal
+  * Grant funds can go to you or your team members on grant proposal delivery
+  * Grant funds are escrowed until work is completed
+
+### Metrics
+
+1. Total Value Streaming (TVS) - easiest metric to see the health or the protocol
+2. Active streamers - the number of unique wallets streaming
+3. Active affiliates - the number of unique affiliate wallets that are allocated IDA shares in a market and are receiving fees
+4. Protocol fees - the amount of fees the protocol earns per month
+5. Affiliate Fee Revenue - the amount of fees the affiliates earn
