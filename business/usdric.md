@@ -59,9 +59,9 @@ The RIC token delivers the value created by the protocol to the team of Captains
 
 ### Grants Program
 
-RIC rewards for projects will be granted to anyone who submits their project proposal in #proposals along with a request for rewards. The grants program will replace the existing bounty program where issues in Github were assigned bounty labels. Proposals that do not request rewards do not need to use #proposals.
+RIC rewards for projects will be granted to anyone who submits their project proposal in #grants along with a request for rewards. The grants program will replace the existing bounty program where issues in Github were assigned bounty labels. Proposals that do not request rewards do not need to use #grants.
 
-Grants funds can be requested as a monthly reward rate while working or a lump sum reward on delivery. Grants will be posted for a final vote on snapshot vote.
+Grants funds can be requested as a monthly reward streamed to you while working or a lump sum reward on delivery. Grants will be posted for a final vote on Snapshot before any tokens are awarded to grantee.
 
 ### Bug Bounty
 

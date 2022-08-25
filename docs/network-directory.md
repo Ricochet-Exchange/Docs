@@ -6,27 +6,32 @@ description: Contract addresses on Polygon and more
 
 ### REX Markets
 
-| Market      | Contract Address                           | Protocol Version |
-| ----------- | ------------------------------------------ | ---------------- |
-| ETH<>USDC   | 0xF1748222B08193273fd34FF10A28352A2C25Adb0 | v2.0             |
-| ETH<>DAI    | 0xB44B371A56cE0245ee961BB8b4a22568e3D32874 | v2.0             |
-| WBTC<>USDC  | 0x11Bfe0ff11819274F0FD57EFB4fc365800792D54 | v2.0             |
-| WBTC<>DAI   | 0xaA6BF289A0b3BB71dd7DfABE7A373410d37A4b70 | v2.0             |
-| MATIC<>USDC | 0xF989C73d04D20c84d6A4D26d07090D0a63F021C7 | v2.0             |
-| MATIC<>DAI  | 0x9FC28B1887589785CA43C57946dD0d3eD781A1eE | v2.0             |
-
-### REX Banks
-
-| Name          | Address                                    | Collateral  | Debt  |
-| ------------- | ------------------------------------------ | ----------- | ----- |
-| :shower: v1.1 | 0xe78dC447d404695541b540F2FbB7682fd24d778B | RIC         | USDCx |
-| 🌧️ v1.1      | 0xE4924F84D834aC103a1Fb2774a4c0Bc526c7D593 | USDCx       | RIC   |
+| Market                 | Contract Address                           | Protocol Version |
+| ---------------------- | ------------------------------------------ | ---------------- |
+| ETH<>USDC              | 0xF1748222B08193273fd34FF10A28352A2C25Adb0 | v2.0             |
+| ETH<>DAI               | 0xB44B371A56cE0245ee961BB8b4a22568e3D32874 | v2.0             |
+| WBTC<>USDC             | 0x11Bfe0ff11819274F0FD57EFB4fc365800792D54 | v2.0             |
+| WBTC<>DAI              | 0xaA6BF289A0b3BB71dd7DfABE7A373410d37A4b70 | v2.0             |
+| MATIC<>USDC            | 0xF989C73d04D20c84d6A4D26d07090D0a63F021C7 | v2.0             |
+| MATIC<>DAI             | 0x9FC28B1887589785CA43C57946dD0d3eD781A1eE | v2.0             |
+| ibAlluoUSD<>ibAlluoETH | 0xE2FBefA71ab7A92dd3a65dc19aF579cCFE6ade09 | v2.0             |
 
 ### REX Referral
 
 | Name        | Address                                    |
 | ----------- | ------------------------------------------ |
 | REXReferral | 0xA0eC9E1542485700110688b3e6FbebBDf23cd901 |
+
+### REX Banks
+
+{% hint style="warning" %}
+The REX Bank is paused
+{% endhint %}
+
+| Name          | Address                                    | Collateral  | Debt  |
+| ------------- | ------------------------------------------ | ----------- | ----- |
+| :shower: v1.1 | 0xe78dC447d404695541b540F2FbB7682fd24d778B | RIC         | USDCx |
+| 🌧️ v1.1      | 0xE4924F84D834aC103a1Fb2774a4c0Bc526c7D593 | USDCx       | RIC   |
 
 ### Super Tokens
 
