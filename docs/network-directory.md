@@ -14,7 +14,7 @@ description: Contract addresses on Polygon and more
 | WBTC<>DAI              | 0xaA6BF289A0b3BB71dd7DfABE7A373410d37A4b70 | v2.0             |
 | MATIC<>USDC            | 0xF989C73d04D20c84d6A4D26d07090D0a63F021C7 | v2.0             |
 | MATIC<>DAI             | 0x9FC28B1887589785CA43C57946dD0d3eD781A1eE | v2.0             |
-| ibAlluoUSD<>ibAlluoETH | 0xE2FBefA71ab7A92dd3a65dc19aF579cCFE6ade09 | v2.0             |
+| ibAlluoUSD<>ibAlluoETH | 0xD0a8aeD52e80F99F7daDa1E22369B707437b6B34 | v2.0             |
 
 ### REX Referral
 
