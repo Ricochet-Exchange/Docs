@@ -1,55 +1,53 @@
 ---
-description: Upgrade your USDC on Polygon and get started
+description: This is an easy guide to streaming your first DCA flow into ETH from USDC
 ---
 
-# - Quickstart
+# 🏃♂ - Quickstart
 
-## Streaming USDC to ETH
+## Dollar-cost Averaging USDC to ETH
 
 {% hint style="success" %}
-This tutorial assumes you have USDC on Polygon
+(DCA means that you're basically investing your money in the REX market, at intervals over a given period of time, to gain ETH)
+
+This tutorial assumes you have USDC on Polygon; make sure you have enough funds to avoid disconnection while streaming.&#x20;
 {% endhint %}
 
-### 1. Approve your USDC on the Wallet page
+### 1. Approve & Deposit your USDC on the Wallet page
 
-![](../.gitbook/assets/approve.png)
+Navigate to the Wallet page and click the + button to start the process for streaming your USDC into the USDCx contract.&#x20;
 
-**What's going on?** \
-****Basically, you're allowing the USDCx contract to receive your USDC.
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-09 at 1.09.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-### 2. Upgrade your USDC on the Wallet page
+After approving the transaction, deposit funds into USDCx contract and  head to the Market page to start your DCA stream.
 
-![](../.gitbook/assets/upgrade.png)
-
-**What's going on?**\
-****You're wrapping your USDC into USDCx which gives it the ability to be streamed using Superfluid
-
-### 3. Enter how much USDCx you want to stream per month and hit start on the Invest page
-
-![](<../.gitbook/assets/stream (1).png>)
-
-**What's going on?**\
-****USDCx will begin to stream out of your wallet by the second into the USDC>>ETH Stream Market smart contract which will distribute the appropriate amount of WETHx back to you each hour. Basically, hourly dollar-cost-averaging (DCA)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-09 at 1.14.44 PM.png" alt=""><figcaption><p>deposit the amount of funds you want to and start your DCA stream</p></figcaption></figure>
 
 {% hint style="warning" %}
-You can start a stream for more than your wallet balance. For the above example, the USDCx balance will exhaust after 1/2 a month because you're streaming at a rate of 700 USDCx/month and you only have 350 USDCx.
+Depending on your RPC URL it may take 10 block confirmations before the app will detect that you have approved your USDC.
 {% endhint %}
 
-### **4. Downgrade your accumulated WETHx balance on the Wallet Page**
+### 2. Start your DCA stream on the Market Page
 
-So, some time has passed and you've accumulated some WETHx. Now you want to downgrade to plain ol' WETH. Go to the downgrade widget on the Wallet page.
+Confirm you have a USDCx balance (after streaming USDC) and then click on the USDC-ETH market section to expand it. Enter a rate in USDCx/month you want to DCA into ETH and then click the Start/Edit button.    &#x20;
 
-![](<../.gitbook/assets/downgrade (1).png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-09 at 1.21.20 PM.png" alt=""><figcaption></figcaption></figure>
 
-Put in the amount of WETHx you want to downgrade, hit downgrade, confirm the transaction, and wait for the WETH to appear in your wallet!
+Once this transaction confirms, your DCA flow has been initiated. Check back in 30 minutes to see the ETH you've earned. The swap for this market triggers every 30 minutes so you can have a visual of how your money is moving!&#x20;
 
-**What's going on?**\
-****You unwrapped the WETHx you were distributed by Ricochet into regular WETH.
+{% hint style="warning" %}
+You can start a stream for more than your wallet balance. For the above example, the USDCx balance will exhaust after 1  month because you're streaming at a rate of 10 USDCx/month and you have 10 USDCx. If you want to continue with your monthly streams, just approve and deposit some USDC in the wallet page.
+{% endhint %}
+
+### 3. **Withdraw your WETHx to get WETH in your wallet**
+
+After earning and accumulating some WETHx, you could withdraw it and bridge to another DeFi protocol such as AAVE. To do this, go to the wallet page and click on the - button, input amount and withdraw WETH from the WETHx contract. Check your wallet for confirmation that you have WETH in your wallet.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-10 at 9.27.56 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-**Congrats on completing the Quickstart tutorial 🥳**
+**Hey, you made it this far in the quickstart so big ups! 🥳**
 
-If you've got any lingering questions, issues, or suggestions, make sure to let us know in the [Discord](https://discord.com/invite/egu4FZbPBM). Cheers!
+If you've got any questions, unclear sections, or suggestions, make sure to let us know in the [Discord](https://discord.com/invite/egu4FZbPBM). Happy streaming!
 {% endhint %}
 
-****
+***

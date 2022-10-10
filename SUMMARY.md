@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Ricochet Exchange](README.md)
+* [💱 Ricochet Exchange(REX)](README.md)
 
 ## Tutorial & Help <a href="#tutorial" id="tutorial"></a>
 
 * [🏃♂ - Quickstart](tutorial/how-it-works.md)
 * [🎬 - DApp Video Tutorial](tutorial/using-the-dapp.md)
 * [❓ - FAQ](tutorial/faq/README.md)
-  * [Getting funds onto Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
+  * [Getting funds into Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
   * [Transaction issues?](tutorial/faq/transaction-issues.md)
 
 ## Business & Community <a href="#business" id="business"></a>
