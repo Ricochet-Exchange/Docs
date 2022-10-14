@@ -4,7 +4,7 @@
 
 ## Tutorial & Help <a href="#tutorial" id="tutorial"></a>
 
-* [🏃♂ - Quickstart](tutorial/how-it-works.md)
+* [📽 - REX Projects](tutorial/rex-projects.md)
 * [🎬 - DApp Video Tutorial](tutorial/using-the-dapp.md)
 * [❓ - FAQ](tutorial/faq/README.md)
   * [Getting funds into Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
@@ -28,3 +28,4 @@
 
 * [Dollar-Cost Averaging (DCA)](quick-explainers/dca-overview.md)
 * [Empowering Streamed Salaries](quick-explainers/interval-comparison.md)
+* [❔ WETH &  USDCx ?](quick-explainers/weth-and-usdcx.md)

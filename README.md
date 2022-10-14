@@ -12,37 +12,60 @@ description: >-
 * Ricochet Exchange charges a 2% fee on all token swaps.
 * You will lose tokens if your balance runs out while streaming (ensure you have enough funds before streaming!).
 
-## Projects
 
-Ricochet Exchange is aimed at producing pioneering tools that creates the opportunity for people to make real-time investments with their crypto assets  using Superfluid and Tellor's finance scheme. Essentially, these streaming operations are made so that they can actually be visualized and synchronously followed.  Learn more about each of our projects below.
 
-### REX Market - [LIVE](https://app.ricochet.exchange)
+## :man\_running: REX Quickstart&#x20;
 
-This project centers around creating and maintaining a **branched-out trade system that supports automatic** **real-time investing** on Polygon. Ricochet Exchange contracts use Superfluid for streaming tokens and Tellor Oracle for getting prices, and SushiSwap/QuickSwap for regular market volatility. REX is used for both individual and organizational purposes to invest capital assets and income inflows in and out of ETH, WBTC and others. [Learn More](https://app.ricochet.exchange)
+This is an easy guide to streaming your first DCA flow into ETH from USDC
 
-![Investing in Ethereum with DAI in real-time through Ricochet Exchange](<.gitbook/assets/image (27).png>)
 
-#### Interactive Stream Manager
 
-Construct a _DCA flow_ **** using the REX Market Interactive Stream Manager interface.
+## Dollar-cost Averaging USDC to ETH
 
-![Convert RIC governance tokens to USDC and then convert USDC to ETH and WBTC](<.gitbook/assets/Jun-05-2022 17-40-33.gif>)
+{% hint style="success" %}
+(DCA means that you're basically investing your money in the REX market, at intervals over a given period of time, to gain ETH)
 
-![Close up of the DCA Flow](<.gitbook/assets/Jun-05-2022 16-50-41.gif>)
+This tutorial assumes you have USDC on Polygon; make sure you have enough funds to avoid disconnection while streaming.&#x20;
+{% endhint %}
 
-### REX Launchpad - [LIVE](https://app.ricochet.exchange)
 
-The Launchpad intends on creating a **launchpad contract for projects to use to do fair and equal ICOs**. This launchpad does away with front-running by offering tokens at a fixed distribution rate. Streamers can compete to earn a portion of the eventual distributions. See an example below where the price discovery would put RIC's price at 0.50 USDC. [Learn More](https://github.com/Ricochet-Exchange/ricochet/blob/main/00-Meta/RicochetExchangeOffering.md)
 
-![Dynamic pricing of the $RIC token via REX Launchpad](<.gitbook/assets/image (42).png>)
+### 1. Approve & Deposit your USDC on the Wallet page
 
-![REX Launchpad can be used for streaming ICOs; Ricochet Launchpads provide a easy way to do a "fair launch"](<.gitbook/assets/Screen Shot 2021-11-01 at 8.39.50 AM.png>)
+Navigate to the Wallet page and click the + button to start the process for streaming your USDC into the USDCx contract.&#x20;
 
-### Experimental Products
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-09 at 1.09.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-#### REX Tokens and REX LP streaming
+After approving the transaction, deposit funds into USDCx contract and  head to the Market page to start your DCA stream.
 
-REX Tokens are profitable tokens used in Ricochet Exchange to deliver real-time yield to streamers. REX Tokens represent a claim on yield-bearing ERC20 tokens staked in reward systems (e.g. SushiSwap Farms). Users run their USDC into the Ricochet market to receive REX Tokens. Tokens are denoted with a “rex” prefix on the underlying token (e.g. rexSLP). The exchange takes the principal tokens and stakes them in a reward system. Streamers then receive the rewards produced in real-time directly to their wallet. [Learn More](https://github.com/Ricochet-Exchange/ricochet-lpx)
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-09 at 1.14.44 PM.png" alt=""><figcaption><p>deposit the amount of funds you want to and start your DCA stream</p></figcaption></figure>
 
-![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time](.gitbook/assets/Ricochet\_-\_sushi.jpg)
+{% hint style="warning" %}
+Depending on your RPC URL it may take 10 block confirmations before the app will detect that you have approved your USDC.
+{% endhint %}
 
+### 2. Start your DCA stream on the Market Page
+
+Confirm you have a USDCx balance (after streaming USDC) and then click on the USDC-ETH market section to expand it. Enter a rate in USDCx/month you want to DCA into ETH and then click the Start/Edit button.    &#x20;
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-09 at 1.21.20 PM.png" alt=""><figcaption></figcaption></figure>
+
+Once this transaction confirms, your DCA flow has been initiated. Check back in 30 minutes to see the ETH you've earned. The swap for this market triggers every 30 minutes so you can have a visual of how your money is moving!&#x20;
+
+{% hint style="warning" %}
+You can start a stream for more than your wallet balance. For the above example, the USDCx balance will exhaust after 1  month because you're streaming at a rate of 10 USDCx/month and you have 10 USDCx. If you want to continue with your monthly streams, just approve and deposit some USDC in the wallet page.
+{% endhint %}
+
+### 3. **Withdraw your WETHx to get WETH in your wallet**
+
+After earning and accumulating some WETHx, you could withdraw it and bridge to another DeFi protocol such as AAVE. To do this, go to the wallet page and click on the - button, input amount and withdraw WETH from the WETHx contract. Check your wallet for confirmation that you have WETH in your wallet.
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-10-10 at 9.27.56 AM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+**Hey, you made it this far in the tutorial so big ups! 🥳**
+
+If you've got any questions, unclear sections, or suggestions, make sure to let us know in the [Discord](https://discord.com/invite/egu4FZbPBM). Happy streaming!
+{% endhint %}
+
+***

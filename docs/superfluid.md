@@ -36,7 +36,7 @@ When you hit "Start" and begin streaming, you are entering into a Constant Flow 
 
 A Super App is a smart contract that can manage agreements and respond to occurrences within them. It contains custom logic/behaviour where the contract can respond to things like stream initiation, updates, and perform its own CFAs and distributions
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 #### Where we use:
 

@@ -1,3 +1,7 @@
+---
+description: A quick guide video to easily navigate the Ricochet Exchange software!
+---
+
 # 🎬 - DApp Video Tutorial
 
 ## REX Markets
