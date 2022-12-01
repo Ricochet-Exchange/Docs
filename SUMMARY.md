@@ -9,12 +9,14 @@
 * [❓ - FAQ](tutorial/faq/README.md)
   * [Getting funds into Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
   * [Transaction issues?](tutorial/faq/transaction-issues.md)
+* [👕 - REX Merch](tutorial/rex-merch.md)
 
 ## Business & Community <a href="#business" id="business"></a>
 
 * [🫂 - Community](business/community.md)
 * [🗳 - Ricochet DAO](business/usdric.md)
 * [⛵ - Captains](business/captains.md)
+* [🔁 -Referral Program](business/referral-program.md)
 
 ## Technical Docs <a href="#docs" id="docs"></a>
 

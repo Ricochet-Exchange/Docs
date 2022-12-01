@@ -14,7 +14,7 @@ description: >-
 
 ## &#x20; :moneybag:USDCx
 
-USDCx is otherwise known as [Bitcoin's fractional share token](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&cad=rja\&uact=8\&ved=2ahUKEwjJysS3utv6AhVvXvEDHUqsAQEQFnoECBAQAQ\&url=https%3A%2F%2Fwww.issuewire.com%2Fusdcx-the-bitcoin-inc-fractional-share-token-is-now-available-to-the-public-1684587058092575\&usg=AOvVaw0W5T9OLyNqKNQ0vbmrJQF9) is an official Ethereum ERC20 token. When you make a direct purchase of USDCx into your wallet, you relatively become a shareholder of Bitcoin ; basically you get to be a co-owner of Bitcoin.&#x20;
+USDCx, otherwise known as [Bitcoin's fractional share token,](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&cad=rja\&uact=8\&ved=2ahUKEwjJysS3utv6AhVvXvEDHUqsAQEQFnoECBAQAQ\&url=https%3A%2F%2Fwww.issuewire.com%2Fusdcx-the-bitcoin-inc-fractional-share-token-is-now-available-to-the-public-1684587058092575\&usg=AOvVaw0W5T9OLyNqKNQ0vbmrJQF9) is an official Ethereum ERC20 token. When you make a direct purchase of USDCx into your wallet, you relatively become a shareholder of Bitcoin ; basically you get to be a co-owner of Bitcoin.&#x20;
 
 Initially, you'd have to go through long cycles to be an official USDCx holder but with Ricochet Exchange, you can easily deposit your funds, sit back and watch as you earn.&#x20;
 
