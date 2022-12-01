@@ -4,14 +4,12 @@ description: Would you like to rep your favorite DCA DEX?
 
 # 👕 - REX Merch
 
-You can now stream into the REX Merch Launchpad to gain REX SHIRT tokens, which you can use to claim Merch like shirts, hats, and [#ecofriendly](https://twitter.com/hashtag/ecofriendly?src=hashtag\_click) water bottles.
+You can now stream into the REX Merch Launchpad to get rexSHIRT and rexHAT tokens. These Ricochet Exchange Merch tokens have a total supply of 52 and can be redeemed for a real T-shirt or hat.
 
-There are currently two REX Merch items available:
-
-* Ricochet Exchange Shirt (rexSHIRT)
-  * <img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.42.52 PM.png" alt="" data-size="original">
-* Ricochet Exchange Hat (rexHAT)
-  * ![](<../.gitbook/assets/Screen Shot 2022-12-01 at 4.43.02 PM.png>)
+| REX Merch Token      | Total Supply | Image                                                              |
+| -------------------- | ------------ | ------------------------------------------------------------------ |
+| REX Shirt (rexSHIRT) | 52           | ![](<../.gitbook/assets/Screen Shot 2022-12-01 at 4.42.52 PM.png>) |
+| REX Hat (rexHAT)     | 52           | ![](<../.gitbook/assets/Screen Shot 2022-12-01 at 4.43.02 PM.png>) |
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.31.31 PM.png" alt=""><figcaption><p>Ricochet Exchange Merch is offered on the Ricochet Launchpad, use your RIC to DCA into rexSHIRT and rexHAT</p></figcaption></figure>
 
