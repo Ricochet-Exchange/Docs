@@ -6,11 +6,13 @@ description: >-
 
 # 💱 Ricochet Exchange(REX)
 
+<figure><img src=".gitbook/assets/165824337-81f487c9-fa13-4048-af1c-41869d822aac.gif" alt=""><figcaption></figcaption></figure>
+
 **Important Disclosures**
 
 * All smart contracts are unaudited so usage is based on individual's discretion.
 * Ricochet Exchange charges a 2% fee on all token swaps.
-* You will lose tokens if your balance runs out while streaming (ensure you have enough funds before streaming!).
+* You will lose tokens if your balance runs out while streaming
 
 
 
