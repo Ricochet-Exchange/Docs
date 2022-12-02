@@ -1,14 +1,16 @@
 ---
-description: Ricochet Exchange has
+description: We're much more that your favorite DEX for DCA
 ---
 
 # 📽 - REX Projects
 
-Ricochet Exchange is aimed at producing pioneering tools that creates the opportunity for people to make real-time investments with their crypto assets  using Superfluid and Tellor's finance scheme. Essentially, these streaming operations are made so that they can actually be visualized and synchronously followed.  Learn more about each of our projects below.
+Ricochet Exchange is dedicated to creating pioneering tools that allow individuals to make real-time investments with their crypto assets using Superfluid. Streaming operations are designed to be easily visualized and followed in real-time. Learn more about our projects below.&#x20;
+
+<figure><img src="../.gitbook/assets/Nov-25-2022_16-14-23.gif" alt=""><figcaption></figcaption></figure>
 
 ### REX Market - [LIVE](https://app.ricochet.exchange)
 
-This project centers around creating and maintaining a **branched-out trade system that supports automatic** **real-time investing** on Polygon. Ricochet Exchange contracts use Superfluid for streaming tokens and Tellor Oracle for getting prices, and SushiSwap/QuickSwap for regular market volatility. REX is used for both individual and organizational purposes to invest capital assets and income inflows in and out of ETH, WBTC and others. [Learn More](https://app.ricochet.exchange)
+This project revolves around building and maintaining a decentralized exchange that enables automatic real-time investing on Polygon. Ricochet Exchange contracts leverage Superfluid for streaming tokens and Tellor Oracle for price data, as well as SushiSwap/QuickSwap for liquidity. Both individuals and organizations can use the exchange to easily invest their capital and income streams into and out of ETH, WBTC, and other cryptocurrencies in real-time. Learn more about our project to discover the full range of benefits and features it offers.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Investing in Ethereum with DAI in real-time through Ricochet Exchange</p></figcaption></figure>
 
@@ -24,17 +26,17 @@ Construct a _DCA flow_ **** using the REX Market Interactive Stream Manager inte
 
 ### REX Launchpad - [LIVE](https://app.ricochet.exchange)
 
-The Launchpad intends on creating a **launchpad contract for projects to use to do fair and equal ICOs**. This launchpad does away with front-running by offering tokens at a fixed distribution rate. Streamers can compete to earn a portion of the eventual distributions. See an example below where the price discovery would put RIC's price at 0.50 USDC. [Learn More](https://github.com/Ricochet-Exchange/ricochet/blob/main/00-Meta/RicochetExchangeOffering.md)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-02 at 4.24.03 PM.png" alt=""><figcaption><p>RIC, rexSHIRT, rexHAT tokens are currently being sold on the Ricochet Launchpad</p></figcaption></figure>
+
+The Launchpad intends on creating a **launchpad contract for projects to use to do fair ICOs**. This launchpad does away with front-running by offering tokens at a fixed distribution rate. Streamers can compete to earn a portion of the distributions. See an example below where the price discovery would put $RIC's price at 0.50 USDC. [Try it out now >>](https://app.ricochet.exchange/#/invest/rex-launchpad)
 
 ![Dynamic pricing of the $RIC token via REX Launchpad](<../.gitbook/assets/image (42).png>)
 
-![REX Launchpad can be used for streaming ICOs; Ricochet Launchpads provide a easy way to do a "fair launch"](<../.gitbook/assets/Screen Shot 2021-11-01 at 8.39.50 AM.png>)
-
-### Experimental Products
+## Experimental Products
 
 #### REX Tokens and REX LP streaming
 
-REX Tokens are profitable tokens used in Ricochet Exchange to deliver real-time yield to streamers. REX Tokens represent a claim on yield-bearing ERC20 tokens staked in reward systems (e.g. SushiSwap Farms). Users run their USDC into the Ricochet market to receive REX Tokens. Tokens are denoted with a “rex” prefix on the underlying token (e.g. rexSLP). The exchange takes the principal tokens and stakes them in a reward system. Streamers then receive the rewards produced in real-time directly to their wallet. [Learn More](https://github.com/Ricochet-Exchange/ricochet-lpx)
+REX Tokens are used on the Ricochet Exchange to provide real-time yield to streamers. These yield-bearing tokens represent a claim on ERC20 tokens that are staked in reward systems, such as SushiSwap Farms. Streamers can earn REX Tokens by streaming USDC into the exchange. The exchange will then take the underlying tokens and stake them in a reward system, allowing streamers to receive their rewards directly to their wallet in real-time.&#x20;
 
-![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time](../.gitbook/assets/Ricochet\_-\_sushi.jpg)
+![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time, image was created by Superfluid.finance](../.gitbook/assets/Ricochet\_-\_sushi.jpg)
 
