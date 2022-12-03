@@ -1,20 +1,10 @@
 ---
-description: >-
-  Easy access to the world of DCA-streaming and real-time investing, motioned by
-  Superfluid and Tellor.
+description: REX is the best way to dollar cost average (DCA) on Polygon
 ---
 
-# 💱 Ricochet Exchange(REX)
+# 💱 Ricochet Exchange (REX)
 
 <figure><img src=".gitbook/assets/165824337-81f487c9-fa13-4048-af1c-41869d822aac.gif" alt=""><figcaption></figcaption></figure>
-
-**Important Disclosures**
-
-* All smart contracts are unaudited so usage is based on individual's discretion.
-* Ricochet Exchange charges a 2% fee on all token swaps.
-* You will lose tokens if your balance runs out while streaming
-
-
 
 ## :man\_running: REX Quickstart&#x20;
 
@@ -25,12 +15,8 @@ This is an easy guide to streaming your first DCA flow into ETH from USDC
 ## Dollar-cost Averaging USDC to ETH
 
 {% hint style="success" %}
-(DCA means that you're basically investing your money in the REX market, at intervals over a given period of time, to gain ETH)
-
 This tutorial assumes you have USDC on Polygon; make sure you have enough funds to avoid disconnection while streaming.&#x20;
 {% endhint %}
-
-
 
 ### 1. Approve & Deposit your USDC on the Wallet page
 

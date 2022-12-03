@@ -1,12 +1,12 @@
 ---
-description: Ricochet Exchange's Affiliate Program explainer.
+description: Ricochet Exchange's Referral Program explainer.
 ---
 
-# 🔁 -Referral Program
+# 🔁 - Referral Program
 
 ## Overview
 
-The REX Affiliate Program lets you earn a portion of the fees from the volume you refer. Learn how to get started as a REX Affiliate below.
+The REX Referral Program lets you earn a portion of the fees from the volume you refer. Learn how to get started as an affiliate below.
 
 ## Current Affiliates
 
@@ -54,9 +54,9 @@ After successfully registering your referral link, you will enter an approval pe
 
 Once approved, share your referral link with others and start earning!
 
-## Why should become an Affiliate member?
+## Why should become an Affiliate?
 
-As an affiliate member, **you receive 50% of the fees charged by Ricochet** for accounts you refer. If you refer an account that DCAs $1000 with the protocol, Ricochet charges a 2% fee for the transaction, you would earn $10 (50% of the $20 fee). These rewards can provide a significant source of income if you are able to successfully refer a large amount of volume to the protocol.
+As an affiliate **you receive 50% of the fees charged by Ricochet** to accounts you refer. If you refer an account that DCAs $1000 with the protocol, Ricochet charges a 2% fee for the transaction, you would earn $10 (50% of the $20 fee). These rewards can provide a significant source of income if you are able to successfully refer a large amount of volume to the protocol.
 
 You can get registered as an affiliate **TODAY.** Just click on this link [app.ricochet.exchange](https://app.ricochet.exchange/#/refer), follow the steps above and start earning away! The Referral System is completely on-chain and you'll receive your rewards every few hours.&#x20;
 
