@@ -8,6 +8,16 @@ description: Ricochet Exchange's Affiliate Program explainer.
 
 The REX Affiliate Program lets you earn a portion of the fees from the volume you refer. Learn how to get started as a REX Affiliate below.
 
+## Current Affiliates
+
+Existing affiliates include:
+
+| Ledger                                       | Alluo Finance                                                     |
+| -------------------------------------------- | ----------------------------------------------------------------- |
+| ![](../.gitbook/assets/ledger-logo-long.svg) | ![](<../.gitbook/assets/6168135b36da4560d493f4d3\_Group 242.png>) |
+
+and so many more!
+
 ## **How to become a REX Affiliate**
 
 To become a REX Affiliate, follow these steps:
@@ -49,3 +59,4 @@ Once approved, share your referral link with others and start earning!
 As an affiliate member, **you receive 50% of the fees charged by Ricochet** for accounts you refer. If you refer an account that DCAs $1000 with the protocol, Ricochet charges a 2% fee for the transaction, you would earn $10 (50% of the $20 fee). These rewards can provide a significant source of income if you are able to successfully refer a large amount of volume to the protocol.
 
 You can get registered as an affiliate **TODAY.** Just click on this link [app.ricochet.exchange](https://app.ricochet.exchange/#/refer), follow the steps above and start earning away! The Referral System is completely on-chain and you'll receive your rewards every few hours.&#x20;
+
