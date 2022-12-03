@@ -1,12 +1,12 @@
 ---
-description: Ricochet Exchange's Affiliate Program explainer.
+description: Ricochet Exchange's Referral Program explainer.
 ---
 
-# 🔁 -Referral Program
+# 🔁 - Referral Program
 
 ## Overview
 
-The REX Affiliate Program lets you earn a portion of the fees from the volume you refer. Learn how to get started as a REX Affiliate below.
+The REX Referral Program lets you earn a portion of the fees from the volume you refer. Learn how to get started as an affiliate below.
 
 ## Current Affiliates
 
