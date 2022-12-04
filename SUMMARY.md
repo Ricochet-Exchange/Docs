@@ -19,7 +19,3 @@
 * [🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
 * [🐱 - Github](docs/github.md)
 * [🔗 - Network Directory](docs/network-directory.md)
-
-## Quick Explainers
-
-* [❔ WETH &  USDCx ?](quick-explainers/weth-and-usdcx.md)
