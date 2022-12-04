@@ -14,8 +14,7 @@
 
 ## Technical Docs <a href="#docs" id="docs"></a>
 
-* [🦖 - REX Contracts](docs/rex-contracts.md)
-* [🚿 - Superfluid](docs/superfluid.md)
-* [🧙♂ - Tellor Oracle](docs/tellor-oracle.md)
+* [🧙 - Dework](docs/dework.md)
 * [🐱 - Github](docs/github.md)
 * [🔗 - Network Directory](docs/network-directory.md)
+* [🦖 - REX Contracts](docs/rex-contracts.md)
