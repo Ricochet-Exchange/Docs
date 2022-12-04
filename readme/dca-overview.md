@@ -1,4 +1,8 @@
-# Dollar-Cost Averaging (DCA)
+---
+description: 'Discover the benefits of DCA with Ricochet: Save on risk, stress, and time!'
+---
+
+# 🕘 - Dollar-Cost Averaging (DCA)
 
 ## What's DCA?
 

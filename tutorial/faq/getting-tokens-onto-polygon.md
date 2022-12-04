@@ -4,7 +4,7 @@ description: >-
   we've got info for you here.
 ---
 
-# Getting funds onto Polygon?
+# Getting funds into Polygon?
 
 ### Bridging from Ethereum Mainnet
 
