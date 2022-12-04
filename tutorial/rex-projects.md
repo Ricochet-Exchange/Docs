@@ -6,7 +6,7 @@ description: We're much more that your favorite DEX for DCA
 
 Ricochet Exchange is dedicated to creating pioneering tools that allow individuals to make real-time investments with their crypto assets using Superfluid. Streaming operations are designed to be easily visualized and followed in real-time. Learn more about our projects below.&#x20;
 
-<figure><img src="../.gitbook/assets/Nov-25-2022_16-14-23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nov-25-2022_16-14-23.gif" alt=""><figcaption><p>Streams UI in the <a href="https://app.ricochet.exchange/#/ref/rewards">Ricochet Exchange Application</a>; Swapping RIC to USDC to ibAlluoUSD to ibAlluoETH and ibAlluoBTC</p></figcaption></figure>
 
 ### REX Market - [LIVE](https://app.ricochet.exchange)
 
@@ -32,9 +32,21 @@ The Launchpad intends on creating a **launchpad contract for projects to use to 
 
 ![Dynamic pricing of the $RIC token via REX Launchpad](<../.gitbook/assets/image (42).png>)
 
+### REX WaterDrops - [LIVE](https://app.ricochet.exchange/#/claim)
+
+Introducing REX WaterDrops - the revolutionary new way to distribute tokens to recipients! WaterDrops solves the problem of traditional airdrops, where recipients immediately sell their tokens, by streaming the tokens to recipients over a specified period of time. This encourages recipients to hold onto their tokens and support the project, rather than dumping them on the market. And with WaterDrops, recipients only need to claim their tokens once - they will continue to receive them as if they were vesting. Give WaterDrops a try and see the benefits for yourself!
+
+Check out the latest WaterDrops here:  [https://app.ricochet.exchange/#/claim](https://app.ricochet.exchange/#/claim)
+
+{% embed url="https://youtu.be/zSy_SwOanVA" %}
+Here's is the ETH Online 2022 Submission from Michael Ghen, the creator and maintainer of WaterDrops contracts
+{% endembed %}
+
 ## Experimental Products
 
-#### REX Tokens and REX LP streaming
+Currently, these projects are not active due to a lack of demand. However, we are always looking for ways to bring these products back to mainnet if we can find the volume to justify the startup and overhead expenses. In the meantime, we are focusing on our active projects and working to provide the best possible experience for our customers. Thank you for your understanding.
+
+### REX Tokens and REX LP streaming
 
 REX Tokens are used on the Ricochet Exchange to provide real-time yield to streamers. These yield-bearing tokens represent a claim on ERC20 tokens that are staked in reward systems, such as SushiSwap Farms. Streamers can earn REX Tokens by streaming USDC into the exchange. The exchange will then take the underlying tokens and stake them in a reward system, allowing streamers to receive their rewards directly to their wallet in real-time.&#x20;
 
