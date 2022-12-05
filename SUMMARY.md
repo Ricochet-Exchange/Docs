@@ -8,6 +8,7 @@
   * [🗳 - Ricochet DAO](business/usdric.md)
   * [🔁 - Referral Program](business/referral-program.md)
   * [👕 - REX Merch](business/rex-merch.md)
+  * [🚰 - REX WaterDrops](readme/rex-waterdrops.md)
   * [❓ - FAQ](tutorial/faq/README.md)
     * [Getting funds into Polygon?](tutorial/faq/getting-tokens-onto-polygon.md)
     * [Transaction issues?](tutorial/faq/transaction-issues.md)
