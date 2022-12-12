@@ -4,14 +4,29 @@ description: Would you like to rep your favorite DCA DEX?
 
 # 👕 - REX Merch
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.31.31 PM.png" alt=""><figcaption><p>Ricochet Exchange Merch is offered on the Ricochet Launchpad, use your RIC to DCA into rexSHIRT and rexHAT</p></figcaption></figure>
+
+## Overview
+
 You can now stream into the REX Merch Launchpad to get rexSHIRT and rexHAT tokens. These Ricochet Exchange Merch tokens have a total supply of 52 and can be redeemed for a real T-shirt or hat.
 
-| REX Merch Token      | Total Supply | Image                                                              |
-| -------------------- | ------------ | ------------------------------------------------------------------ |
-| REX Shirt (rexSHIRT) | 52           | ![](<../.gitbook/assets/Screen Shot 2022-12-01 at 4.42.52 PM.png>) |
-| REX Hat (rexHAT)     | 52           | ![](<../.gitbook/assets/Screen Shot 2022-12-01 at 4.43.02 PM.png>) |
+### REX Merch Tokens
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.31.31 PM.png" alt=""><figcaption><p>Ricochet Exchange Merch is offered on the Ricochet Launchpad, use your RIC to DCA into rexSHIRT and rexHAT</p></figcaption></figure>
+This table contains information about each of the REX Merch token
+
+| Image                                                                                           | REX Merch Token           | Total Supply | Contract Address                                                                                                         |
+| ----------------------------------------------------------------------------------------------- | ------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.42.52 PM.png" alt="" data-size="line"> | REX Shirt 2023 (rexSHIRT) | 52           | [0x19cA69C66768B487D28226C0a60Ab2B2aa8E5c5C](https://polygonscan.com/address/0x19ca69c66768b487d28226c0a60ab2b2aa8e5c5c) |
+| <img src="../.gitbook/assets/Screen Shot 2022-12-01 at 4.43.02 PM.png" alt="" data-size="line"> | REX Hat 2023 (rexHAT)     | 52           | [0xe91D640fCAEA9602CF94C0d48A251a7f6d946953](https://polygonscan.com/address/0xe91d640fcaea9602cf94c0d48a251a7f6d946953) |
+
+### REX Merch Launchpads
+
+| Launchpad     | Emission Rate | Contract Address                                                                                                         | Liquidity Pool |
+| ------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| RIC>>rexSHIRT | 1/week        | [0x284cdaDc181691cd1de3530BC1b60F90Ba640f4D](https://polygonscan.com/address/0x284cdadc181691cd1de3530bc1b60f90ba640f4d) | Uniswap        |
+| RIC>>rexHAT   | 1/week        | [0xFc2ac85264e438ECd4d7Df3fC2449bfef6D307b6](https://polygonscan.com/address/0xfc2ac85264e438ecd4d7df3fc2449bfef6d307b6) | Uniswap        |
+
+
 
 ## How to get REX Merch
 
