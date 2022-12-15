@@ -8,7 +8,7 @@ description: Would you like to rep your favorite DCA DEX?
 
 ## Overview
 
-You can now stream into the REX Merch Launchpad to get rexSHIRT and rexHAT tokens. These Ricochet Exchange Merch tokens have a total supply of 52 and can be redeemed for a real T-shirt or hat.
+Got RIC? You can now DCA into rexSHIRT and rexHAT tokens using the REX Launchpads. These Ricochet Exchange Merch tokens have a total supply of 52 and can be redeemed for a real T-shirt or hat. The tokens are emitted at a rate of 1/week. There are also a few rexSHIRT and rexHAT tokens available on Uniswap.&#x20;
 
 ### REX Merch Tokens
 
