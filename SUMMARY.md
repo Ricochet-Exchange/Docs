@@ -2,6 +2,7 @@
 
 * [💱 Ricochet Exchange (REX)](README.md)
   * [📽 - REX Projects](tutorial/rex-projects.md)
+  * [📊 - REX Fees](readme/rex-fees.md)
   * [💰 - Salary Streamers](quick-explainers/interval-comparison.md)
   * [🕘 - Dollar-Cost Averaging (DCA)](readme/dca-overview.md)
   * [🫂 - Community](business/community.md)
