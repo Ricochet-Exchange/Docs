@@ -2,7 +2,7 @@
 description: We're much more that your favorite DEX for DCA
 ---
 
-# 📽 - REX Projects
+# ☄ - REX Protocol
 
 Ricochet Exchange is dedicated to creating pioneering tools that allow individuals to make real-time investments with their crypto assets using Superfluid. Streaming operations are designed to be easily visualized and followed in real-time. Learn more about our projects below.&#x20;
 
