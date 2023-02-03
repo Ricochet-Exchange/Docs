@@ -2,7 +2,7 @@
 description: This explains protocol fees on the platform in a clear way
 ---
 
-# 📊 - REX Fees
+# 📊 - Fees
 
 ## Protocol Fees Table
 
@@ -19,8 +19,8 @@ Additionally, there are no guarantees regarding the safety of funds that have be
 
 ## Referral Program Fees
 
-{% content-ref url="../business/referral-program.md" %}
-[referral-program.md](../business/referral-program.md)
+{% content-ref url="affiliates.md" %}
+[affiliates.md](affiliates.md)
 {% endcontent-ref %}
 
 The Ricochet Exchange protocol has a built in Referral System (REX Referral contract). Accounts can register as an affiliate through this contract. As an affiliate they can refer accounts using a link to the frontend application. Fees are then split 50/50 with the affiliate.&#x20;

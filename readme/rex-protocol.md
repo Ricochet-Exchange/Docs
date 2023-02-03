@@ -52,3 +52,8 @@ REX Tokens are used on the Ricochet Exchange to provide real-time yield to strea
 
 ![rexLP is a method of dollar-cost averaging into staked LP tokens, for example above USDC is streamed into ETH-USDC LP tokens and those tokens are staked in Sushi Farms for MATIC and SUSHI rewards, while streaming to Ricochet, users receive back SLP, MATIC, and SUSHI tokens in real-time, image was created by Superfluid.finance](../.gitbook/assets/Ricochet\_-\_sushi.jpg)
 
+{% hint style="danger" %}
+Ricochet Exchange is a management application for decentralized finance protocols that run on Polygon, including but not limited to Superfluid, SushiSwap, and QuickSwap. Ricochet Exchange is not affiliated with companies or teams behind these protocols and we can make no guarantees regarding their stability or security.&#x20;
+
+Additionally, there are no guarantees regarding the safety of funds that have been in any way used within Ricochet Exchange contracts. We cannot compensate users for funds that have been lost during use within Ricochet Exchange or that have at any point in time been used within Ricochet Exchange. By using Ricochet Exchange you agree to these terms and acknowledge that you are aware of the existing risk and knowingly accept it.
+{% endhint %}

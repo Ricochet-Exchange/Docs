@@ -2,7 +2,7 @@
 description: 'WaterDrops: The Future of Claimable Airdrops, Powered by Superfluid'
 ---
 
-# 🚰 - REX WaterDrops
+# 🚰 - WaterDrops
 
 {% hint style="success" %}
 Yes, that's right. **You may be eligible for free tokens!** Learn more about our active Waterdrops below. Check out the Ricochet Exchange Claim page. [Check it out now >>](https://app.ricochet.exchange/#/claim)
@@ -18,7 +18,7 @@ WaterDrops are a way to distribute tokens to recipients in a more efficient and 
 
 <figure><img src="../.gitbook/assets/2023-01-14 15.19.24.jpg" alt=""><figcaption><p>Find out if you are eligible for a claimable airdrop by visiting the gifts page in the app</p></figcaption></figure>
 
-Ricochet regularly WaterDrops RIC, rexSHIRT, and rexHAT tokens to our community. Learn more about rexSHIRT and rexHAT tokens on the [rex-merch.md](../business/rex-merch.md "mention") page.
+Ricochet regularly WaterDrops RIC, rexSHIRT, and rexHAT tokens to our community. Learn more about rexSHIRT and rexHAT tokens on the [merch.md](merch.md "mention") page.
 
 | WaterDrop       | Description                                                                        | Amount | Token    |
 | --------------- | ---------------------------------------------------------------------------------- | ------ | -------- |
