@@ -9,7 +9,7 @@ description: Ricochet Protocol's setup on Mumbai for Protocol Developers
 There are contracts on Mumbai Testnet set up for protocol developers to use for testing. This document explains what's available and why it's there. This document is for protocol developers.
 
 {% hint style="info" %}
-**Interested in becoming a Ricochet Protocol Developer?** Try forking the ricoceht-protocol repository on GitHub, clone it locally, and try to set up your environment so you can run the Hardhat tests. There's a bounty on Dework you can earn once you have gotten the tests to run successfully.&#x20;
+**Interested in becoming a Ricochet Protocol Developer?** Try forking the ricochet-protocol repository on GitHub, clone it locally, and try to set up your environment so you can run the Hardhat tests. There's a bounty on Dework you can earn once you have gotten the tests to run successfully.&#x20;
 
 Check it out now: [Run Protocol Tests Bounty](https://app.dework.xyz/ricochet-exchange-da/onboarding-78105?taskId=1599166b-2ad6-491f-9c50-3b665630123d)
 {% endhint %}
