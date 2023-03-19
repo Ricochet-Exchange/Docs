@@ -19,4 +19,5 @@
 * [🧙 - Dework](docs/dework.md)
 * [🐱 - Github](docs/github.md)
 * [🔗 - Network Directory](docs/network-directory.md)
+* [🧪 Mumbai Testnet](docs/mumbai-testnet.md)
 * [🦖 - REX Contracts](docs/rex-contracts.md)
