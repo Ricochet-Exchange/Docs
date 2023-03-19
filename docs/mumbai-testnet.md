@@ -14,6 +14,10 @@ There are contracts on Mumbai Testnet set up for protocol developers to use for 
 Check it out now: [Run Protocol Tests Bounty](https://app.dework.xyz/ricochet-exchange-da/onboarding-78105?taskId=1599166b-2ad6-491f-9c50-3b665630123d)
 {% endhint %}
 
+{% embed url="https://github.com/Ricochet-Exchange/ricochet-protocol" %}
+Check out the Ricochet Protocol repository on Github
+{% endembed %}
+
 ## Tokens
 
 Superfluid curates tokens on Mumbai for testing. Ricochet needs to make a Uniswap Liquidity Pool with these tokens so that the REX Marekt contracts have a pool to use. This table explains what tokens are available:
