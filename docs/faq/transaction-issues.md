@@ -8,7 +8,7 @@ description: >-
 
 ### Go to the Superfluid Dashboard at [app.superfluid.finance](https://app.superfluid.finance).
 
-_Note that if you're having trouble logging into Superfluid page, try setting up the Superfluid config specified on "Network Config" in_ [_Network Directory_](../../docs/network-directory.md#superfluid-network-config)_._
+_Note that if you're having trouble logging into Superfluid page, try setting up the Superfluid config specified on "Network Config" in_ [_Network Directory_](../../contributor-resources/network-directory.md#superfluid-network-config)_._
 
 #### Issue#1: You're struggling to upgrade/downgrade your tokens
 
@@ -24,7 +24,7 @@ Then put in the quantity you desire and submit the transaction.
 
 **Issue #2: You're struggling to start/modify a stream**
 
-Go to [Network Directory](../../docs/network-directory.md#current-stream-exchange-markets) and select the market you want to stream in. Hit the send button on the main Dashboard board page and you'll see the below.
+Go to [Network Directory](../../contributor-resources/network-directory.md#current-stream-exchange-markets) and select the market you want to stream in. Hit the send button on the main Dashboard board page and you'll see the below.
 
 ![](<../../.gitbook/assets/image (22).png>)
 
@@ -38,7 +38,7 @@ Hit the "_Transactions_" tab on the left indicated by the double-arrows icon (se
 
 ![](<../../.gitbook/assets/image (23).png>)
 
-On the table, click on the stream to the Stream Exchange Market you want to cancel. If you've got multiple streams, identify the right address using the [Network Directory](../../docs/network-directory.md#current-stream-exchange-markets).
+On the table, click on the stream to the Stream Exchange Market you want to cancel. If you've got multiple streams, identify the right address using the [Network Directory](../../contributor-resources/network-directory.md#current-stream-exchange-markets).
 
 ![](<../../.gitbook/assets/image (24).png>)
 

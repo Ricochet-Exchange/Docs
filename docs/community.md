@@ -2,7 +2,7 @@
 description: Ricochet Exchange first and foremost a community
 ---
 
-# 🫂 - Community
+# 🫂 Community
 
 ## Join our community on Discord
 
@@ -21,8 +21,8 @@ Our Discord uses [Collab Land token gating.](https://collab.land/) There are two
 
 In addition to RIC there are two additional tokens for the protocl. These tokens rexSHIRT and rexHAT are available on the Ricochet Launchpad or Uniswap. The tokens unlock more premium features within the Ricochet community and can be burn in exchange for a real tshirt or hat.
 
-{% content-ref url="../readme/merch.md" %}
-[merch.md](../readme/merch.md)
+{% content-ref url="../experimental-projects/merch.md" %}
+[merch.md](../experimental-projects/merch.md)
 {% endcontent-ref %}
 
 ## Twitter

@@ -2,7 +2,7 @@
 description: REX is the best way to dollar cost average (DCA) on Polygon
 ---
 
-# 💱 Ricochet Exchange (REX)
+# 🏃♂ Quickstart
 
 <figure><img src=".gitbook/assets/165824337-81f487c9-fa13-4048-af1c-41869d822aac.gif" alt=""><figcaption></figcaption></figure>
 

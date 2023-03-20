@@ -2,7 +2,7 @@
 description: The key to unlocking your potential as a Ricochet Exchange contributor
 ---
 
-# 🧙 - Dework
+# 🧙 Dework
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-04 at 3.08.53 PM.png" alt=""><figcaption><p>Check Ricochet Exchange out on Dework; explore the open tasks and earn bounties for contributions to the project!</p></figcaption></figure>
 

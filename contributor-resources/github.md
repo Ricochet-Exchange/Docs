@@ -2,7 +2,7 @@
 description: Check out our code
 ---
 
-# 🐱 - Github
+# 🐱 Github
 
 ## Overview
 
