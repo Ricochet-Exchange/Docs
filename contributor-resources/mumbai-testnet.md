@@ -26,7 +26,7 @@ Check out the Ricochet Protocol repository on Github
 | Ricochet (RIC) Token    | 0xDCf9273075A29F0070d5cB4632814367CE4350aE |
 | RIC Launchpad           | 0xd6cf77c9bc69181ab859b5fc963d769cf2e2c2af |
 | REX Referral            | 0x24239b083143759C8920Ba56d76Be36CD70DE490 |
-| REX Market: fUSDC>>fDAI | 0x5241FaFD177598f9DE213fA10637946cff3d6947 |
+| REX Market: fUSDC>>fDAI | 0x4fb7309f1e000d40c0eb074cd5579e14386c1b77 |
 | REX Market: fDAI>>fUSDC | TBD                                        |
 | rexSHIRT Token          | 0x3997918224f980FF933f8922d1aCcc26463eD702 |
 | rexHAT Token            | 0xea3003b77f1c36318Ac50069Fc33D1793Ce416b9 |
