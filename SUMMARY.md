@@ -28,3 +28,4 @@
 * [🔗 Network Directory](contributor-resources/network-directory.md)
 * [🦖 REX Contract Architecture](contributor-resources/rex-contracts.md)
 * [🧪 Mumbai Testnet](contributor-resources/mumbai-testnet.md)
+* [🅾 Optimism Network](contributor-resources/optimism-network.md)
