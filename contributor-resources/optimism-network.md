@@ -28,7 +28,7 @@ Check out the Ricochet Protocol repository on Github
 | rexHAT Token          | 0xBaB5fF73925a1C205F8b2565B225AbF55c5D68a9 |
 | RIC Launchpad         | 0x5c2e1a331678e1a9c6f8c156b5d48a5cc7e50cda |
 | REX Referral          | 0xC79255821DA1edf8E1a8870ED5cED9099bf2eAAA |
-| REX Market: USDC>>DAI | :construction:                             |
+| REX Market: USDC>>DAI | 0x0d98B7D4f19A585296b330C538b7316351677A79 |
 | REX Market: DAI>>USDC | :construction:                             |
 | REX Market: DAI>>ETH  | :construction:                             |
 | REX Market: USDC>>ETH | :construction:                             |
