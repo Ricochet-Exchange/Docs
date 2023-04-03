@@ -1,12 +1,12 @@
 ---
-description: Ricochet Protocol's setup on Optimism for Protocol Developers
+description: Ricochet Protocol's setup on Polygon for Protocol Developers
 ---
 
-# 🅾 Optimism Network
+# ♾ Polygon Network
 
 ## Overview
 
-There are contracts on Optimism set up for protocol developers to use for production applications.&#x20;
+There are contracts on Polygon set up for protocol developers to use for production applications.&#x20;
 
 {% hint style="info" %}
 **Interested in becoming a Ricochet Protocol Developer?** Try forking the ricochet-protocol repository on GitHub, clone it locally, and try to set up your environment so you can run the Hardhat tests. There's a bounty on Dework you can earn once you have gotten the tests to run successfully.&#x20;
@@ -22,14 +22,14 @@ Check out the Ricochet Protocol repository on Github
 
 | Contract              | Optimism Contract Address                  |
 | --------------------- | ------------------------------------------ |
-| Ricochet DAO Multisig | 0x8e38Be5c136B3f7f05aD570c2996e43733418C4a |
-| Ricochet (RIC) Token  | 0x7abd51A15668308D3b42Cc1F6148Be8bdE939568 |
-| rexSHIRT Token        | 0x0942570634A80bcd096873afC9b112A900492fd7 |
-| rexHAT Token          | 0xBaB5fF73925a1C205F8b2565B225AbF55c5D68a9 |
-| RIC Launchpad         | 0x5c2e1a331678e1a9c6f8c156b5d48a5cc7e50cda |
-| REX Referral          | 0xC79255821DA1edf8E1a8870ED5cED9099bf2eAAA |
-| REX Market: USDC>>DAI | 0xd16DAc3C32498D231eA80a1D93Aea7A016762b91 |
-| REX Market: DAI>>USDC | 0x5f4919B2ed93b7d0Ae686d42AA8A94d372640F78 |
+| Ricochet DAO Multisig | 0x9C6B5FdC145912dfe6eE13A667aF3C5Eb07CbB89 |
+| Ricochet (RIC) Token  | 0x263026e7e53dbfdce5ae55ade22493f828922965 |
+| rexSHIRT Token        | 0x19cA69C66768B487D28226C0a60Ab2B2aa8E5c5C |
+| rexHAT Token          | 0xe91D640fCAEA9602CF94C0d48A251a7f6d946953 |
+| RIC Launchpad         | 0x98d463A3F29F259E67176482eB15107F364c7E18 |
+| REX Referral          | 0xA0eC9E1542485700110688b3e6FbebBDf23cd901 |
+| REX Market: USDC>>DAI | :construction:                             |
+| REX Market: DAI>>USDC | :construction:                             |
 | REX Market: DAI>>ETH  | :construction:                             |
 | REX Market: USDC>>ETH | :construction:                             |
 
