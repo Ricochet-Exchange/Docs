@@ -30,8 +30,10 @@ Check out the Ricochet Protocol repository on Github
 | REX Referral          | 0xC79255821DA1edf8E1a8870ED5cED9099bf2eAAA |
 | REX Market: USDC>>DAI | 0xd16DAc3C32498D231eA80a1D93Aea7A016762b91 |
 | REX Market: DAI>>USDC | 0x5f4919B2ed93b7d0Ae686d42AA8A94d372640F78 |
-| REX Market: DAI>>ETH  | :construction:                             |
-| REX Market: USDC>>ETH | :construction:                             |
+| REX Market: USDC>>OP  | 0x9e5d41aab1Db526eBb74e393A0D3bEa25E7583ed |
+| REX Market: DAI>>OP   | 0x6Cdd465096dC77E4184003c44b727877Db224a9D |
+| REX Market: OP>>USDC  | 0xD139afb20e3c98472C82a992B6B1548280C41d3b |
+| REX Market: OP>>DAI   | 0xD245e7D9301D73247939baF954A17fDf49d0D7ff |
 
 ## Super Tokens
 
