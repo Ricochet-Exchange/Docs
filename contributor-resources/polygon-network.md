@@ -20,18 +20,28 @@ Check out the Ricochet Protocol repository on Github
 
 ## REX Contracts
 
-| Contract              | Optimism Contract Address                  |
-| --------------------- | ------------------------------------------ |
-| Ricochet DAO Multisig | 0x9C6B5FdC145912dfe6eE13A667aF3C5Eb07CbB89 |
-| Ricochet (RIC) Token  | 0x263026e7e53dbfdce5ae55ade22493f828922965 |
-| rexSHIRT Token        | 0x19cA69C66768B487D28226C0a60Ab2B2aa8E5c5C |
-| rexHAT Token          | 0xe91D640fCAEA9602CF94C0d48A251a7f6d946953 |
-| RIC Launchpad         | 0x98d463A3F29F259E67176482eB15107F364c7E18 |
-| REX Referral          | 0xA0eC9E1542485700110688b3e6FbebBDf23cd901 |
-| REX Market: USDC>>DAI | 0x8f8E389Fa66e439EE98f4f2d71104ad993190983 |
-| REX Market: DAI>>USDC | :construction:                             |
-| REX Market: DAI>>ETH  | :construction:                             |
-| REX Market: USDC>>ETH | :construction:                             |
+| Contract                | Optimism Contract Address                  |
+| ----------------------- | ------------------------------------------ |
+| Ricochet DAO Multisig   | 0x9C6B5FdC145912dfe6eE13A667aF3C5Eb07CbB89 |
+| Ricochet (RIC) Token    | 0x263026e7e53dbfdce5ae55ade22493f828922965 |
+| rexSHIRT Token          | 0x19cA69C66768B487D28226C0a60Ab2B2aa8E5c5C |
+| rexHAT Token            | 0xe91D640fCAEA9602CF94C0d48A251a7f6d946953 |
+| RIC Launchpad           | 0x98d463A3F29F259E67176482eB15107F364c7E18 |
+| REX Referral            | 0xA0eC9E1542485700110688b3e6FbebBDf23cd901 |
+| REX Market: USDC>>DAI   | 0x8f8E389Fa66e439EE98f4f2d71104ad993190983 |
+| REX Market: DAI>>USDC   | 0x21140427F2e32C801FA8AAC2A352e85a9e23847b |
+| REX Market: USDC>>ETH   | 0x2D482F552eC3F770b3eF67833D61723CB2c745b3 |
+| REX Market: ETH>>USDC   | :construction:                             |
+| REX Market: DAI>>ETH    | :construction:                             |
+| REX Market: ETH>>DAI    | :construction:                             |
+| REX Market: USDC>>WBTC  | :construction:                             |
+| REX Market: WBTC>>USDC  | :construction:                             |
+| REX Market: DAI>>WBTC   | :construction:                             |
+| REX Market: WBTC>>DAI   | :construction:                             |
+| REX Market: USDC>>MATIC | :construction:                             |
+| REX Market: MATIC>>USDC | :construction:                             |
+| REX Market: DAI>>MATIC  | :construction:                             |
+| REX Market: MATIC>>DAI  | :construction:                             |
 
 ## Super Tokens
 
