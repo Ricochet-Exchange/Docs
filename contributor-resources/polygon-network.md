@@ -42,7 +42,8 @@ Check out the Ricochet Protocol repository on Github
 | REX Market: MATIC>>USDC  | 0x0b8F6e3FcD78C0258ad4a69f11057E6586576d34                                                                                                                                        |
 | REX Market: DAI>>MATIC   | 0x3aD32478453A28b2cD74e4C440957c6079274D8c                                                                                                                                        |
 | REX Market: MATIC>>DAI   | 0x543090bEeCa42A9C8E8F05c11c710BBCd22f2Cfd                                                                                                                                        |
-| REX Market: USDC>>RIC    | 0x73a5d56867e2E8fb5b166Beb48788951C7665b61                                                                                                                                        |
+| REX Market: USDC>>RIC    | 0x98a2e76e6bf3afcbf1f9a0e08097987c7ffa3953                                                                                                                                        |
+| REX Market: RIC>>USDC    | 0x9ad80c3e370d8073aec0c0d04f8e41168fb300f4                                                                                                                                        |
 | REX Market: USDC>>MaticX | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f6a7">🚧</span><br></p><p>Output is Super Liquid Staking Matic (PoS): 0xb38514E22c5B60cE26aAF907eC144128EbF7a2DF </p> |
 
 {% hint style="info" %}
