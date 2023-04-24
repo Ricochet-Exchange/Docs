@@ -49,7 +49,7 @@ Superfluid curates tokens on Mumbai for testing. Ricochet needs to make a Uniswa
 | USDCx | 0x8430f084b939208e2eded1584889c9a66b90562f |
 | DAI   | 0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1 |
 | DAIx  | 0x7d342726b69c28d942ad8bfe6ac81b972349d524 |
-| WBTC  |                                            |
+| WBTC  | 0x68f180fcCe6836688e9084f035309E29Bf0A2095 |
 | WBTCx | 0x9638EC1D29dfA9835fdb7fa74B5B77B14d6Ac77e |
 | ETH   | Native Network Token                       |
 | ETHx  | 0x4ac8bd1bdae47beef2d1c6aa62229509b962aa0d |
