@@ -21,6 +21,8 @@
 
 ## Contributor Resources
 
+* [🅾 Optimism Network](contributor-resources/optimism-network.md)
+* [♾ Polygon Network](contributor-resources/polygon-network.md)
 * [🗳 Ricochet DAO](contributor-resources/usdric.md)
 * [🔁 Affiliates](contributor-resources/affiliates.md)
 * [🧙 Dework](contributor-resources/dework.md)
@@ -28,5 +30,3 @@
 * [🔗 Network Directory](contributor-resources/network-directory.md)
 * [🦖 REX Contract Architecture](contributor-resources/rex-contracts.md)
 * [🧪 Mumbai Testnet](contributor-resources/mumbai-testnet.md)
-* [🅾 Optimism Network](contributor-resources/optimism-network.md)
-* [♾ Polygon Network](contributor-resources/polygon-network.md)
