@@ -11,7 +11,7 @@ description: REX is the best way to dollar cost average (DCA) on Polygon
 This is an easy guide to streaming your first DCA flow into ETH from USDC
 
 {% hint style="danger" %}
-Ricochet Exchange is a management application for decentralized finance protocols that run on Polygon, including but not limited to Superfluid, Uniswap, Gelato, Chainlink, SushiSwap, and Quickswap. Ricochet Exchange is not affiliated with companies or teams behind these protocols and we can make no guarantees regarding their stability or security.&#x20;
+Ricochet Exchange is a management application for decentralized finance protocols that run on Polygon and Optimism, including but not limited to Superfluid, Uniswap, Gelato, Chainlink, SushiSwap, and Quickswap. Ricochet Exchange is not affiliated with companies or teams behind these protocols and we can make no guarantees regarding their stability or security.&#x20;
 
 Additionally, there are no guarantees regarding the safety of funds that have been in any way used within Ricochet Exchange contracts. We cannot compensate users for funds that have been lost during use within Ricochet Exchange or that have at any point in time been used within Ricochet Exchange. By using Ricochet Exchange you agree to these terms and acknowledge that you are aware of the existing risk and knowingly accept it.
 {% endhint %}
